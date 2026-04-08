@@ -1,0 +1,42 @@
+{
+  "verdict": "PASS",
+  "style": "realistic",
+  "assets": [
+    {
+      "label": "李阳",
+      "type": "character",
+      "verdict": "PASS",
+      "style_ok": true,
+      "setting_match": true,
+      "description_match": 5,
+      "quality_ok": true,
+      "issues": [],
+      "retry_suggestion": null
+    },
+    {
+      "label": "张强",
+      "type": "character",
+      "verdict": "PASS",
+      "style_ok": true,
+      "setting_match": true,
+      "description_match": 4,
+      "quality_ok": true,
+      "issues": [
+        "角色实际是用右手拿着保温杯，与描述要求的'左手'不符。"
+      ],
+      "retry_suggestion": null
+    },
+    {
+      "label": "联合办公空间-深夜",
+      "type": "scene",
+      "verdict": "PASS",
+      "style_ok": true,
+      "setting_match": true,
+      "description_match": 5,
+      "quality_ok": true,
+      "issues": [],
+      "retry_suggestion": null
+    }
+  ],
+  "summary": "3/3 assets passed"
+}
